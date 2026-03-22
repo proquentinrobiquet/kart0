@@ -1,0 +1,31 @@
+project:
+  type: website
+  resources:
+    -carte_*.html
+output-dir: docs
+website:
+  title: "Kartol0gy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Réalisé avec QUARTO
+      - href: about.qmd
+        text: A propos de moi
+      - href: loyer06.qmd
+        text: "Carte de prédiction des loyers"
+    right:
+      - text: "Autres projets"
+        menu:
+          - Occupation batie 2025.qmd    
+      
+
+format:
+  html:
+    theme:
+      - sandbox
+      - brand
+    css: styles.css
+    toc: true
+
+
+

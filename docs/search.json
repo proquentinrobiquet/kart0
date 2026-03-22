@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Occupation batie 2025.html",
+    "href": "Occupation batie 2025.html",
+    "title": "Occupation bâtie 2025",
+    "section": "",
+    "text": "a=1\nb=2\n\nprint(a+b)\n\n3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "loyer06.html",
+    "href": "loyer06.html",
+    "title": "Est-ce si difficile de se loger dans le 06 ?",
+    "section": "",
+    "text": "Réponse : oui. Mais à quel point ?\n\n\nLa carte des loyers - 2025\nCe projet démarré en 2018 par la Direction Générale de l’Aménagement, du Logement et de la Nature (DGALN), puis repris par l’Agence Nationale pour l’Information sur le Logement (ANIL) se poursuit. A partir de 9 millions d’annonces locatives sur la période 2019-2025… Il vous est possible sur le département, d’estimer le loyer moyen que vous devriez payer pour la surface choisie (m²).\nPour plus d’informations, le jeu de données est ici, et une note explicative, dont la lecture est grandement conseillée se retrouve par ici !\n\n\nQuelle surface seriez-vous prêt à louer dans les Alpes-Maritimes ?\nLes valeurs affichées correspondent aux loyers les plus élevés recensés dans la base de donnée (2019-2025). Cela permet, en quelques sortes, de prendre en compte l’augmentation des loyers.\n 15 m² 30 m² 50 m² 100 m² 150 m² 200 m²"
+  }
+]

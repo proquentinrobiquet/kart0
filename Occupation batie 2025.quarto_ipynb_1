@@ -1,0 +1,37 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Occupation bâtie 2025\"\n",
+        "---\n"
+      ],
+      "id": "241b7212"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "a=1\n",
+        "b=2\n",
+        "\n",
+        "print(a+b)\n"
+      ],
+      "id": "495da9f5",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\FlowUP\\AppData\\Roaming\\Python\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
