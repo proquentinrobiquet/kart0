@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Occupation batie 2025.html",
+    "href": "Occupation batie 2025.html",
+    "title": "Occupation bâtie 2025",
+    "section": "",
+    "text": "a=1\nb=2\n\nprint(a+b)\n\n3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenue dans ce site en Quarto !",
+    "section": "",
+    "text": "La cartographie est passionnante. Elle mêle informations, interactions spatiales en une forme d’art complet. Les cartes sont des outils très puissants dont l’exploration est une véritable passion. Les outils modernent nous permettent de tout explorer…A mes heures j’apprends, je me trompe… et je partage\nAlors, bienvenue à vous, si vous me lisez, un jour peut-être!\nSi vous souhaitez apprendre QUARTO, c’est par ici !"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "loyer06.html",
+    "href": "loyer06.html",
+    "title": "Est-ce si difficile de se loger dans le 06 ?",
+    "section": "",
+    "text": "La carte des loyers - 2025\nSe loger dans le 06 c’est très difficile.\nLa carte des loyers c’est un projet démarré en 2018 par la Direction Générale de l’Aménagement, du Logement et de la Nature (DGALN). Repris par l’Agence Nationale pour l’Information sur le Logement (ANIL), c’est 9 millions d’annonces locatives Françaises en Métropole qui sont analysées sur la période 2019-2025… Ainsi par département il est possible, d’estimer le loyer moyen que vous devriez payer pour la surface choisie (m²).\nPour plus d’informations, le jeu de données est ici, et une note explicative, dont la lecture est grandement conseillée se retrouve par ici !\nLes cartographies proposées correspondent aux loyers les plus élevés recensés dans la base de donnée *upr.IPm2*. Cela permet, en quelques sortes, de “prendre en compte” l’augmentation des loyers.\n\n\nAlors, quelle surface seriez-vous prêt à louer sur la côte d’Azur ?\n 15 m² 30 m² 50 m² 100 m² 150 m² 200 m²"
+  }
+]

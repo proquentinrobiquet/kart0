@@ -1,7 +1,20 @@
 ---
-title: "Website"
+title: "Bienvenue dans ce site en Quarto !"
 ---
 
-This is a Quarto website.
+La cartographie est passionnante. Elle mêle informations, interactions spatiales en une forme d'art complet.
+Les cartes sont des outils très puissants dont l'exploration est une véritable passion. Les outils modernent nous permettent de tout explorer...A mes heures j'apprends, je me trompe... et je partage !
+Qui suis-je ? Seul mon succès m'amènera à partager mon identité...
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Alors, bienvenue à vous, si vous me lisez, un jour peut-être! 
+
+Apprendre QUARTO, [c'est par ici !](https://quarto.org/docs/websites), et c'est en anglais... 
+
+<a href="https://www.linkedin.com/in/quentin-robiquet-1660b9160/">
+  <img src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="100">
+</a>
+
+<a href="instagram.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1280px-Instagram_logo_2022.svg.png" width="100">
+</a>
+
